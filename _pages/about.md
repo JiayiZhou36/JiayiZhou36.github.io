@@ -9,10 +9,6 @@ redirect_from:
 
 "Why should I trust the model?" This question drives much of my work in machine learning and interdisciplinary research. I focus on designing systems that are both **accurate and interpretable**, bridging the gap between technical models and practitioners who rely on them. My research lies at the intersection of machine learning, computer vision, and applied data science, with a central emphasis on **interpretability, transparency, and usability**.  
 
-A data-driven personal website
-======
-This website serves as a portfolio of my research, projects, and publications. Here, you can explore my work on **explainable AI**, **object detection**, and **data science pipelines** applied across diverse domains, from ecology to autonomous systems. I aim to make machine learning tools accessible, reproducible, and impactful for non-technical audiences while maintaining scientific rigor.
-
 Key Projects & Focus Areas
 ------
 - **Explainable AI:** Deploying methods such as LIME and attribution techniques for object detection models to produce clear, instance-aware explanations for domain experts.  
