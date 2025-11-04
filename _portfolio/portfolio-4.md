@@ -1,6 +1,6 @@
 ---
-title: "2D vs 3D Object Detection for Occluded Objects"
-excerpt: "Year-long capstone project analyzing 2D and 3D object detection models under occlusion.
+title: "Comparing 2D vs 3D Object Detection for Occluded Objects"
+excerpt: "Year-long capstone project analyzing 2D and 3D object detection models under occlusion."
 collection: portfolio
 ---
 
